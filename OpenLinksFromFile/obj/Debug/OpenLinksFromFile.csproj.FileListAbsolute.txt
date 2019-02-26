@@ -1,0 +1,7 @@
+C:\Dropbox\C#\OpenLinksFromFile\OpenLinksFromFile\bin\Debug\OpenLinksFromFile.exe.config
+C:\Dropbox\C#\OpenLinksFromFile\OpenLinksFromFile\bin\Debug\OpenLinksFromFile.exe
+C:\Dropbox\C#\OpenLinksFromFile\OpenLinksFromFile\bin\Debug\OpenLinksFromFile.pdb
+C:\Dropbox\C#\OpenLinksFromFile\OpenLinksFromFile\obj\Debug\OpenLinksFromFile.csprojResolveAssemblyReference.cache
+C:\Dropbox\C#\OpenLinksFromFile\OpenLinksFromFile\obj\Debug\OpenLinksFromFile.csproj.CoreCompileInputs.cache
+C:\Dropbox\C#\OpenLinksFromFile\OpenLinksFromFile\obj\Debug\OpenLinksFromFile.exe
+C:\Dropbox\C#\OpenLinksFromFile\OpenLinksFromFile\obj\Debug\OpenLinksFromFile.pdb
